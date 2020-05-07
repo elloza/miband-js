@@ -18,7 +18,11 @@
   },
   "dependencies": {
     "browserify-aes": "^1.2.0",
+    "requests": "^0.3.0",
     "webbluetooth": "github:elloza/webbluetooth.git"
+  },
+  "optionalDependencies": {
+	    "fsevents": "^2.0.7"
   },
   "devDependencies": {
     "ecstatic": "^3.2.1",
