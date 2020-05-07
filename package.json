@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "browserify-aes": "^1.2.0",
-    "webbluetooth": "github.com/elloza/webbluetooth.git"
+    "webbluetooth": "github:elloza/webbluetooth.git"
   },
   "devDependencies": {
     "ecstatic": "^3.2.1",
@@ -44,9 +44,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vshymanskyy/miband-js"
+    "url": "https://github.com/elloza/miband-js"
   },
   "bugs": {
-    "url": "https://github.com/vshymanskyy/miband-js/issues"
+    "url": "https://github.com/elloza/miband-js/issues"
   }
 }
